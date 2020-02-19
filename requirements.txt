@@ -21,5 +21,4 @@ pytest-cov==2.4.0
 pandas
 numpy
 scikit-learn
-pickle
 matplotlib
