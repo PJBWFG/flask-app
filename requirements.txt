@@ -16,3 +16,10 @@ gunicorn
 # Automated tests
 pytest==3.0.5
 pytest-cov==2.4.0
+
+# Machine Learning
+pandas
+numpy
+scikit-learn
+pickle
+matplotlib
